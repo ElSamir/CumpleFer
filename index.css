@@ -1,0 +1,26 @@
+#checo{
+    
+    display: grid;
+    place-items: center;
+}
+
+#checo1{
+    
+   
+
+    width: 450px;
+    height: 450px;
+}
+
+
+#modal{
+    
+    display: grid;
+    place-items: center;
+}
+
+body{
+
+    background-color: #001220;
+
+}
